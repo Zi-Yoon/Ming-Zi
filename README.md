@@ -1,4 +1,4 @@
-### Hi there 👋
+### 🌱 자라나는중 🌱
 
 <!--
 **Ming-Zi/Ming-Zi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mingzi)
+![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mingzi)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ming-Zi&show_icons=true&theme=radical)
