@@ -1,4 +1,5 @@
-### 🌱 자라나는중 🌱
+### 🌱 자라나는중
+### 42_Seoul Cadet
 
 <!--
 **Ming-Zi/Ming-Zi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
